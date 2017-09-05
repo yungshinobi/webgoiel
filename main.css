@@ -1,0 +1,183 @@
+    body {
+        width: 100%;
+        margin-left: 0;
+        margin-bottom: 0;
+        padding-bottom: 0;
+        font-size: 16px;
+        font-family: "Roboto";
+        font-weight: lighter;
+        color: #1e1b1c;
+    }
+    footer {
+        width: 100%;
+        height: 170px;
+        background: #1e1b1c;
+        color: white;
+        overflow: hidden;
+    }
+
+    a:link {
+        color: #1e1b1c;
+    }
+    a:hover {
+        color: #f76c59;
+    }
+
+    #avatar { 
+        border-radius: 225px; 
+        margin-top: -190px;
+        box-shadow: 0 0 15px #666; 
+    }
+        #usertext {
+        margin-top: -200px; 
+        margin-left: 250px;
+        color: white;     
+    }
+
+    #userinfo {
+        float:left; 
+        position: relative;
+        margin-left: 150px;
+    }
+
+    #about {
+        width: 100%;
+        height: 545px; 
+    
+    }
+
+    #aboutmetxt {
+        position: relative;
+        width: 380px; 
+        height: 280px;
+        background: #f76c59;
+        color: white;
+        margin-top: -505px;
+        margin-left: 600px;
+        padding-top: 35px;
+        padding-left: 65px;
+        padding-right: 22.55%;
+        padding-bottom: 65px;
+
+    }
+    #hobbyicongroup {
+        height: 195px;
+    }
+    #eduicongroup {
+        height: 125px;
+        align-self: center;
+        margin: auto;
+
+    }
+    .dash {
+        border-width: 1px;
+        border-color: rgb(44, 44, 44);
+        border-style: solid;
+        position: absolute;
+        width: 7.7%;
+        height: 0;
+        z-index: 42;
+    }
+    .navigation {
+        line-height: 1.2;
+        text-align: left;
+        padding-left: 150px;
+        padding-bottom: 15px;
+        padding-top: 5px;
+    }
+    .header {
+        font-size: 14px;
+        font-family: "Roboto";
+        font-weight: lighter;
+        text-decoration: none;
+        color: rgb(44, 44, 44);
+        padding-right: 40px;
+    }
+    p.about {
+            font-size: 14px; 
+    }
+    .section {
+        margin-top: 75px;
+        margin-left: 20%;
+    }
+    .textsection {               
+        margin-left: 11%;
+    }
+    p.textsection {
+        margin-top: -25px;
+    } 
+
+    .hobbyleft {
+        font-size: 18px;
+        margin-top: 70px;
+        margin-left: 24.2%;
+        width: 225px;
+    }
+    .hobbyright {
+        font-size: 18px;
+        position: relative;
+        bottom: 45px;
+        margin-left: 59%;
+    }
+    .edublock {
+        font-size: 16px;
+        float: left;
+        text-align: center;
+        padding-top: 55px;
+        width: 33.3%;
+    }
+
+    #progblock {
+        width: 100%;
+        height: 530px;
+        background: #dadada;
+        margin-top: 115px;
+        padding-top: 75px;
+    }
+    #progtext {
+        position: relative;
+        width: 360px; 
+        height: 360px;
+        background: #f76c59;
+        color: white;
+        padding-top: 75px;
+        padding-left: 150px;
+            padding-right: 12.2%;
+    }
+    #futuretext {
+        position: relative;
+        width: 360px; 
+        height: 360px;
+        background: white;
+        color: #1e1b1c;
+        padding-top: 75px;
+        padding-left: 150px;
+        padding-right: 12.2%;
+        /* float: right;*/
+        margin-left: 50%;
+        margin-top: -435px; 
+    }
+
+    a.bot {
+        color: #1e1b1c;
+    }
+    #contacts {
+        width: 225px;
+        padding-left: 150px;
+        padding-top: 30px;
+        overflow: hidden;
+    }
+    .contact {
+        padding-bottom: 20px;
+    }
+    .space {
+        padding-right: 10px;
+    }
+    #links {
+        position: absolute;
+        padding-left: 50%;
+        margin-top: -90px;
+    }
+    .snicon {
+        padding-right: 40px;
+    }
