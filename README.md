@@ -1,1 +1,1 @@
-# webgoiel.github.io
+# https://yungshinobi.github.io/webgoiel/
