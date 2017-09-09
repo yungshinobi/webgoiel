@@ -3,9 +3,8 @@
         margin-left: 0;
         margin-bottom: 0;
         padding-bottom: 0;
-        font-size: 16px;
-        font-family: "Roboto";
-        font-weight: lighter;
+        font-size: 14px;
+        font-family: "Roboto";       
         color: #1e1b1c;
     }
     footer {
@@ -58,6 +57,7 @@
         padding-left: 65px;
         padding-right: 22.55%;
         padding-bottom: 65px;
+        overflow: hidden;
 
     }
     #hobbyicongroup {
@@ -136,26 +136,28 @@
     }
     #progtext {
         position: relative;
-        width: 360px; 
+        width: 30%; 
         height: 360px;
         background: #f76c59;
         color: white;
         padding-top: 75px;
-        padding-left: 150px;
-            padding-right: 12.2%;
+        padding-left: 10%;
+        padding-right: 10%;
+        overflow: hidden;
     }
     #futuretext {
         position: relative;
-        width: 360px; 
+        width: 30%; 
         height: 360px;
         background: white;
-        color: #1e1b1c;
+        color: #2c2c2c;
         padding-top: 75px;
-        padding-left: 150px;
-        padding-right: 12.2%;
+        padding-left: 10%;
+        padding-right: 10%;
         /* float: right;*/
         margin-left: 50%;
         margin-top: -435px; 
+        overflow: hidden;
     }
 
     a.bot {
